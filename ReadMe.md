@@ -1,0 +1,2 @@
+# This is a simple bare minimum script needed for fine-tuning GPT35Turbo (ChatGPT) on your custom data.
+You can see all the instructions and example cases in the [FineTuning_GPT35Turbo.ipynb](FineTuning_GPT35Turbo.ipynb) file.
